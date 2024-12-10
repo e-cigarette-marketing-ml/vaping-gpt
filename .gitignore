@@ -9,3 +9,7 @@
 *.wav
 *.xlsx
 *.png
+*.zip
+*.pkl
+*.pdf
+*.parquet
